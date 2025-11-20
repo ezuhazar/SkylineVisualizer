@@ -7,6 +7,7 @@ FEATURES (English)
 Key Features:
 * DC Offset Display: Visualizes DC offset (0 Hz) to help diagnose signal issues and prevent clipping.
 * Peak Hold: Displays the maximum historical level with a distinct line for easy visual tracking.
+![SkylineVisualizer in action](SkylineVisualizer_DAW.png)
 
 ==================================================
 INSTALLATION GUIDE (IMPORTANT!)
