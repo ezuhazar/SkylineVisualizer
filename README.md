@@ -1,4 +1,4 @@
-# SkylineVisualizer - VST3/AU Analyzer Plugin (v1.0.0)
+# SkylineVisualizer - VST3 Analyzer Plugin (v1.0.0)
 
 ## FEATURES (English)
 
