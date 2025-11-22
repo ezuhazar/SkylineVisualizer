@@ -57,3 +57,4 @@ Please place the plugin file (`SkylineVisualizer.vst3`) into the VST3 directory 
 
 This software is distributed under the **SkylineVisualizer End User License Agreement (EULA)**.
 For full terms and conditions, please refer to the included `LICENSE.md` file.
+
