@@ -12,7 +12,7 @@ SkylineVisualizer is a simple yet effective visual analysis tool designed for mi
 * **DC Offset Display:** Visualizes DC offset (0 Hz) to help diagnose signal issues and prevent artifacts.
 * **Peak Hold:** Displays the maximum historical level for visual tracking.
 
-(SkylineVisualizer_DAW.png)
+![SkylineVisualizer in action](SkylineVisualizer_DAW.png)
 
 ---
 
