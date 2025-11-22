@@ -1,6 +1,6 @@
-# **SkylineVisualizer End User License Agreement (EULA) - Version 1.0 (Revised)**
+# **SkylineVisualizer End User License Agreement (EULA)**
 
-**Version 1.0 — This agreement applies to the software version to which it is attached.**
+**Version 1.0 — This agreement applies to SkylineVisualizer version 1.0.0.**
 Copyright © 2025 Ezuhazar. All rights reserved.
 
 ---
@@ -82,5 +82,4 @@ No rights are transferred except the limited right to use the Software as define
 ## **8. Acceptance**
 
 By downloading, installing, or using the Software, you acknowledge that you have read, understood, and agreed to be bound by this Agreement.
-
 
