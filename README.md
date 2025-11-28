@@ -1,18 +1,13 @@
 # SkylineVisualizer - VST3 Analyzer Plugin
 
-**Version 1.0.0**
+**Version 1.0.1**
 Copyright © 2025 Ezuhazar.
 
 SkylineVisualizer is a simple yet effective visual analysis tool designed for mixing and mastering engineers.
 
 ---
 
-## Features
-
-* **DC Offset Display:** Visualizes DC offset (0 Hz) to help diagnose signal issues and prevent artifacts.
-* **Peak Hold:** Displays the maximum historical level for visual tracking.
-
-![SkylineVisualizer in action](SkylineVisualizer_DAW.png)
+![SkylineVisualizer in action](SkylineVisualizer_v1_0_1_Win64.png)
 
 ---
 
